@@ -48,3 +48,4 @@ The dataset is a collection of human-written English sentence pairs manually lab
 - https://github.com/huggingface/transformers/blob/5bfcd0485ece086ebcbed2d008813037968a9e58/examples/run_glue.py#L128
 - https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/ 
 - https://keras.io/examples/nlp/semantic_similarity_with_bert/ 4.https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+- http://mccormickml.com/2019/07/22/BERT-fine-tuning/
