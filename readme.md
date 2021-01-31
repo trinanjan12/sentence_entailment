@@ -49,3 +49,4 @@ The dataset is a collection of human-written English sentence pairs manually lab
 - https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/ 
 - https://keras.io/examples/nlp/semantic_similarity_with_bert/ 4.https://mccormickml.com/2019/07/22/BERT-fine-tuning/
 - http://mccormickml.com/2019/07/22/BERT-fine-tuning/
+- https://github.com/bentrevett/pytorch-sentiment-analysis
