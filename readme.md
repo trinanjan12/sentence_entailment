@@ -12,7 +12,7 @@ The dataset is a collection of human-written English sentence pairs manually lab
     2. Fine tuning a BERT pre trained model for classification 
     
 - This problem could be posed as a multi-class classification problem. 
-- Given 2 sentences as input we need to find a softmax output of a number of classes(in out case 2 classes)
+- Given 2 sentences as input we need to find a softmax output of a number of classes(in out case 3 classes)
 - Sentence entailment is a difficult problem to solve because the network needs to look at big sentences and understand their underlying relationship.
 - Before starting with heavier models like BERT, I decided to check out the RNN performance in this problem first.
 - Later I moved onto BERT models and fine tuned one pre trained model. BERT performance was obviously better than vanilla RNN model 
